@@ -13,28 +13,5 @@ This response combines the enthusiasm, professionalism, and confidence of the in
   - Incident Handler’s Journal
   - Vulnerable System Analysis
   - SQL Query
-- <b>
-  - 
-- <b></b>
-  - 
-  - 
-  - 
-  - 
-- <b></b>
-  - 
-  - 
-  - 
-- <b>Python</b>
-  - 
-
-<h2></h2>
-
-
-
-<h2> 🤳 Connect with me:</h2>
-
-
-
-
 
 <!--
