@@ -1,4 +1,4 @@
-<h1>Hi, I'm Benjamin! <a href="www.linkedin.com/in/benjamin-smith-6813a42b1">Cybersecurity Professional</a>
+<h1>Hi, I'm Benjamin!
 
 <h2> About Me </h2>
   
